@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi, I'm Fahad Shaikh.. 👋
+#### 🌱 Learning MERN Stack, Aspiring Full Stack Developer at Masai School Bengaluru, Karnataka
 
 <!--
 **fahdshaikh/fahdshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
