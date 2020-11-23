@@ -7,10 +7,11 @@
 <!-- Here are some ideas to get you started:
 - 🌱 I’m currently learning MongoDb -->
 
-- 🔭 I’m currently working on MERN stack.
-- 🌱 I’m currently learning MongoDB.
-- 👯 I’m looking to collaborate on React. 
-- 🥅 Goals: Aspire to become Full Stack Developer & Contribute more to Open Source projects.
+- 🔭 I’m currently working on [Company-Employee-Records](https://github.com/fahdshaikh/Company-Employee-Records)
+- 🌱 I’m currently learning **MongoDB, Express.**
+- 👯 I’m looking to collaborate on **React.** 
+- 📫 How to reach me **fahadshaikh9776@gmail.com**
+- 🥅 Goals: Aspire to become **Full Stack Developer** & Contribute more to **Open Source projects.**
 - ⚡ Fun fact: Love to Football & First Person Shooting(FPS) games.
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -38,8 +39,8 @@
 ### Github Stats:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fahdshaikh&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahdshaikh&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fahdshaikh&show_icons=true&bg_color=f6f8fa"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahdshaikh&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&bg_color=f6f8fa"/>
 </p>
 
 --- 
