@@ -10,12 +10,13 @@
 - 🔭 I’m currently working on MERN stack.
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on React. 
+- 🥅 Goals: Aspire to become Full Stack Developer & Contribute more to Open Source projects.
+- ⚡ Fun fact: Love to Football & First Person Shooting(FPS) games.
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- 🥅 Goals: Aspire to become Full Stack Developer & Contribute more to Open Source projects.
-- ⚡ Fun fact: Love to Football & First Person Shooting(FPS) games.
+
 <!-- https://github-readme-stats.vercel.app/api?username=fahdshaikh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 -->
 
 --- 
