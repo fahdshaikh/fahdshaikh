@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning MongoDb -->
 
 - 🔭 I’m currently working on MERN stack.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning MongoDB.
 - 👯 I’m looking to collaborate on React. 
 - 🥅 Goals: Aspire to become Full Stack Developer & Contribute more to Open Source projects.
 - ⚡ Fun fact: Love to Football & First Person Shooting(FPS) games.
