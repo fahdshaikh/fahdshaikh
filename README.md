@@ -40,7 +40,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=fahdshaikh&show_icons=true&bg_color=f6f8fa"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahdshaikh&exclude_repo=Instagram-Follower-Analysis&langs_count=10&bg_color=f6f8fa" height="207px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahdshaikh&exclude_repo=Instagram-Follower-Analysis&langs_count=10&bg_color=f6f8fa" height="195px"/>
 </p>
 
 --- 
