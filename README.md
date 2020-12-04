@@ -7,7 +7,7 @@
 <!-- Here are some ideas to get you started:
 - 🌱 I’m currently learning MongoDb -->
 
-- 🔭 I’m currently working on [Company-Employee-Records](https://github.com/fahdshaikh/Company-Employee-Records)
+- 🔭 I’m currently working on [InstagramClone](https://github.com/fahdshaikh/InstagramClone)
 - 🌱 I’m currently learning **MongoDB, Express.**
 - 👯 I’m looking to collaborate on **React.** 
 - 📫 How to reach me **fahadshaikh9776@gmail.com**
