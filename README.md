@@ -6,7 +6,7 @@
 
 <!-- Here are some ideas to get you started:
 - 🌱 I’m currently learning MongoDb -->
-
+<!--
 - 🔭 I’m currently working on [InstagramClone](https://github.com/fahdshaikh/InstagramClone)
 - 🌱 I’m currently learning **MongoDB, Express.**
 - 👯 I’m looking to collaborate on **React.** 
@@ -20,8 +20,9 @@
 
 <!-- https://github-readme-stats.vercel.app/api?username=fahdshaikh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 -->
 
---- 
 
+<!--
+--- 
 ### Languages and Tools:
 
 <p align="center" >
@@ -37,30 +38,33 @@
     <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70" alt="github" />
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70" alt="vscode" />
     </p> 
-
 --- 
+ -->
 
+<!--
 ### Github Stats:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=fahdshaikh&show_icons=true&bg_color=f6f8fa"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahdshaikh&exclude_repo=Instagram-Follower-Analysis&langs_count=10&bg_color=f6f8fa" height="195px"/>
 </p>
-
 --- 
+ -->
 
-### Connect with me:
 
-<p align="center">
+#### Connect with me:
+
+<p align="left">
   <i>
+      <!--
     <a href="http://fahdshaikh.github.io"><img src="https://img.shields.io/badge/-github.io-000000?style=for-the-badge&logo=react&logoColor=white&hide=contribs"></a>
+ -->
     <a href="mailto:fahadshaikh9776@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/fahdshaikh1997/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
    </i>
 </p>
 
-
-
+ 
 [website]: https://fahdshaikh.github.io/
 [twitter]: https://twitter.com/FahdShaikh_
 [instagram]: https://www.instagram.com/mohd._fahd/
